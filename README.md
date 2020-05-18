@@ -8,5 +8,6 @@ Esta LadingPage es totalmente adaptable a dispositivos moviles, aplicando una pa
 |  Sobre el App| Se informa la usuario sobre el proyecto y a que problematica acoje., |
 |  Objetivos| Se presentan los cuatro objetivos que se desean solucionar con el APP |
 |  Funciones APP| Se presentan los cinco modulos del app con su descripción rapida |
+|  Nosotros| Se informan los valores corporativos, la Misión y Visión del proyecto|
 |  Descargar el App| link para descargar el APP en las diferentes plataformas |
 |  Footers| Aquí se encontraran uan preve información del equipo detrás del proyecto|
